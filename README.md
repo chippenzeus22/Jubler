@@ -224,4 +224,4 @@ Jubler is available as a **full free version** with all features and updates inc
 Don't miss out! **Download Jubler today and take your subtitle editing skills to the next level!**
 
 ---
-**Last updated:** 2026-09-30 22:46:45 UTC
+**Last updated:** 2026-10-01 01:45:41 UTC
